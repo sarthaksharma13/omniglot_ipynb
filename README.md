@@ -10,3 +10,4 @@ torchvision
 
 ### Results
 Accuracy of ~89% can be reached with the used parameters. This is not the best set, as a search on parameters was not performed.
+![Alt text](./acc.png?raw=true "Test accuracy")
